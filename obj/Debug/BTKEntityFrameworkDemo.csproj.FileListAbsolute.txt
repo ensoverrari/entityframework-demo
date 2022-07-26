@@ -1,0 +1,15 @@
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\bin\Debug\BTKEntityFrameworkDemo.exe.config
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\bin\Debug\BTKEntityFrameworkDemo.exe
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\bin\Debug\BTKEntityFrameworkDemo.pdb
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\obj\Debug\BTKEntityFrameworkDemo.csproj.AssemblyReference.cache
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\obj\Debug\BTKEntityFrameworkDemo.Form1.resources
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\obj\Debug\BTKEntityFrameworkDemo.Properties.Resources.resources
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\obj\Debug\BTKEntityFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\obj\Debug\BTKEntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\obj\Debug\BTKEntityFrameworkDemo.csproj.CopyComplete
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\obj\Debug\BTKEntityFrameworkDemo.exe
+C:\Users\vergu\source\repos\BTKEntityFrameworkDemo\obj\Debug\BTKEntityFrameworkDemo.pdb
